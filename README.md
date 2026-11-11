@@ -39,5 +39,4 @@ A Swiggy/Zomato-style food delivery web application built with Java EE, Servlets
 ## 👨‍💻 Author
 
 **Rudra Narayan Dixit**  
-* Java Full-Stack Developer & MCA Student  
-* [GitHub Profile](https://github.com/drudra203-lab)
+* Java Full-Stack Developer
